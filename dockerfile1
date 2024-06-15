@@ -10,4 +10,5 @@ EXPOSE 5000
 COPY . .
 CMD ["flask", "run", "--debug"]
 
-# Just refarance from the dockerfile
+
+
