@@ -5,3 +5,6 @@ services:
       - "8000:5000"
   redis:
     image: "redis:alpine"
+
+    #- Develop 1 :- windows which we use the git bash
+

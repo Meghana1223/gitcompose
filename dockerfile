@@ -1,4 +1,4 @@
-chage from dev1 system
+chages from dev1 system
 # syntax=docker/dockerfile:1
 FROM python:3.10-alpine
 WORKDIR /code
